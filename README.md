@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
+Glamour Glow Beauty Salon Website
 
-## Project info
+Description:
+Glamour Glow website is a modern, professional, and visually appealing website designed for a beauty salon. The design is elegant, feminine, and luxurious, featuring soft pastels, gold accents, and clean layouts. It is fully responsive, fast-loading, and user-friendly, providing an excellent experience for clients looking to explore services or book appointments online.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Features / Sections:
 
-## How can I edit this code?
+Home: Hero banner with high-quality image of salon or beauty services, tagline "Enhance Your Natural Beauty", and a prominent "Book Now" button.
 
-There are several ways of editing your application.
+About: Information about the salon, mission, history, and professional team photos.
 
-**Use Lovable**
+Services: List of all services offered (Hair Styling, Facials, Manicure & Pedicure, Makeup, Spa Treatments, etc.) with descriptions, prices, and icons/images.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Gallery: Showcase of high-quality images of hairstyles, makeup, nail art, and salon interior.
 
-Changes made via Lovable will be committed automatically to this repo.
+Booking: Online booking form with service selection, date, time, and customer details.
 
-**Use your preferred IDE**
+Testimonials: Client reviews with names and photos.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Contact: Salon address, interactive map, phone number, email, social media links, and opening hours.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Blog / Offers (optional): Section for beauty tips, promotions, or latest offers.
 
-Follow these steps:
+Design Style:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Elegant, feminine, and luxurious
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Soft pastel colors with gold accents
 
-# Step 3: Install the necessary dependencies.
-npm i
+Modern typography and subtle animations
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Clear call-to-action buttons for booking and contacting
 
-**Edit a file directly in GitHub**
+Emphasis on trust, professionalism, and customer satisfaction
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Technologies Used:
 
-**Use GitHub Codespaces**
+HTML, CSS, JavaScript (or developer’s preferred stack)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Mobile-first responsive design
 
-## What technologies are used for this project?
+SEO-friendly structure
 
-This project is built with:
+Optimized images for fast loading
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Easy-to-update content for services, gallery, and offers
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Usage:
+Perfect for beauty salons aiming to showcase services, attract clients, and enable online booking in a professional and visually stunning manner.
