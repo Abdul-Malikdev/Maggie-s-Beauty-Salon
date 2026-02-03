@@ -1,4 +1,4 @@
-Glamour Glow Beauty Salon Website
+maggie's Beauty Salon Website
 
 Description:
 Glamour Glow website is a modern, professional, and visually appealing website designed for a beauty salon. The design is elegant, feminine, and luxurious, featuring soft pastels, gold accents, and clean layouts. It is fully responsive, fast-loading, and user-friendly, providing an excellent experience for clients looking to explore services or book appointments online.
